@@ -39,7 +39,7 @@ App de conversión de archivos multimedia para Windows: vídeo, audio e imágene
 
 ## Descargas
 
-Los ejecutables están en la sección **Releases** del repositorio (Portable e Instalador). Son ~114 MB porque incluyen Electron y las dependencias. Para subirlos: crea una Release en GitHub y adjunta los `.exe` desde `poxi-ui/release/`.
+**[Descargar releases](https://github.com/PoxiiTV/Convertidor-Universal-.mp4.mp3.jpg/releases)** – Portable e Instalador (~114 MB cada uno).
 
 ## Uso rápido
 
