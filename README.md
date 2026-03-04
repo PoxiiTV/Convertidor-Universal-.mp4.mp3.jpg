@@ -50,7 +50,7 @@
 ## 📥 Descargas
 
 <p align="center">
-  <a href="https://github.com/PoxiiTV/Convertidor-Universal-.mp4.mp3.jpg/releases">
+  <a href="https://github.com/PoxiiTV/Convertidor-Universal-Video-Audio-Imagen/releases">
     <img src="https://img.shields.io/badge/Descargar-Releases-238636?style=for-the-badge&logo=github" alt="Descargar">
   </a>
 </p>
