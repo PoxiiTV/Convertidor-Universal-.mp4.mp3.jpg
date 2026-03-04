@@ -62,6 +62,19 @@
 
 ---
 
+## 🛡️ Seguridad y confianza
+
+El proyecto es **código abierto** (MIT) y puedes revisar todo el código. Los ejecutables publicados están verificados en **VirusTotal** para que descargues con tranquilidad:
+
+| Versión 1.1.0 | VirusTotal |
+|---------------|------------|
+| **Portable** (.exe sin instalador) | [Ver análisis](https://www.virustotal.com/gui/file/a7b380fedb6bd6032b3d780672a784a1c14a6c5acb798e7663aff1044b497d93?nocache=1) |
+| **Setup** (instalador) | [Ver análisis](https://www.virustotal.com/gui/file/e04438a47519e694d33f7ed69f8ffbed073480d062f4d2af6f2fc7555a7859d8?nocache=1) |
+
+Los binarios están **100% limpios**, sin virus ni malware. Si quieres comprobarlo tú mismo, sube el `.exe` a [VirusTotal](https://www.virustotal.com).
+
+---
+
 ## 🖥️ Uso rápido
 
 1. Ejecuta el `.exe` (Portable o tras instalar)
