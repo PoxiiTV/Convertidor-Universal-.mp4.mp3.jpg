@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-1.2.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/platform-Windows-0078d6?style=for-the-badge&logo=windows" alt="Windows">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="Licencia">
 </p>
@@ -20,8 +20,17 @@
 </p>
 
 <p align="center">
-  <em>v1.1.0</em> — FFmpeg incluido; no necesitas instalarlo.
+  <em>v1.2.0</em>
 </p>
+
+---
+
+## ⚠️ Requisito: FFmpeg
+
+**FFmpeg no viene preinstalado con el programa.** Necesitas **instalarlo tú antes** de usar Poxi Utilities. Sin FFmpeg instalado en tu sistema, la conversión de vídeo y audio no funcionará.
+
+- Descarga FFmpeg desde [ffmpeg.org](https://ffmpeg.org/download.html) (o la versión para Windows en [gyan.dev](https://www.gyan.dev/ffmpeg/builds/)).
+- Instálalo y asegúrate de que el ejecutable `ffmpeg` esté en el **PATH** de tu sistema, o coloca los binarios en la carpeta que use la aplicación según su documentación.
 
 ---
 
@@ -58,7 +67,7 @@
 - 📦 **Portable** — No requiere instalación (~220 MB)
 - 🔧 **Instalador** — Setup con accesos directos (~220 MB)
 
-> ✅ **FFmpeg incluido** — Todo listo; no instales nada más
+> ⚠️ **FFmpeg obligatorio** — El programa **no** incluye FFmpeg. Debes instalarlo tú antes de usar la aplicación (vídeo/audio).
 
 ---
 
@@ -105,10 +114,10 @@ npm run electron:dev      # Modo desarrollo con recarga en caliente
 ### Build completo
 
 ```bash
-build_electron.bat        # Desde la raíz (descarga FFmpeg + compila)
+build_electron.bat        # Desde la raíz (compila la app)
 ```
 
-El script descarga FFmpeg automáticamente si no existe en `poxi-ui/ffmpeg/`.
+Necesitas tener FFmpeg instalado en tu sistema (o en `poxi-ui/ffmpeg/` si la app lo busca ahí) para que las conversiones funcionen.
 
 ---
 
