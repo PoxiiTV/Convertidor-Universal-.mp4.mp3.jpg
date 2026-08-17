@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.2.0-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/platform-Windows-0078d6?style=for-the-badge&logo=windows" alt="Windows">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="Licencia">
+  <img src="https://img.shields.io/badge/licencia-PolyForm%20Noncommercial-9b5cf6?style=for-the-badge" alt="Licencia">
 </p>
 
 <p align="center">
@@ -142,4 +142,8 @@ Necesitas tener FFmpeg instalado en tu sistema (o en `poxi-ui/ffmpeg/` si la app
 
 ## 📄 Licencia
 
-MIT © Poxi
+**Poxi Utilities** se distribuye bajo la **PolyForm Noncommercial License 1.0.0** 🔒.
+
+Puedes usarlo, copiarlo y adaptarlo libremente para **uso personal**: proyectos propios, aprendizaje y experimentos. Lo que **no** está permitido es **cualquier uso comercial** — no se puede vender, revender ni obtener beneficio económico directo o indirecto con este proyecto.
+
+📄 Texto completo en el archivo [`LICENSE`](LICENSE).
